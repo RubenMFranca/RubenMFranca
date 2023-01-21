@@ -2,8 +2,8 @@
 
 # Olá! Eu sou o Ruben Micael.
 
-- 🧑‍💻Atualmente Trabalho com desenvolvimento de software(Front-end) na @Dash
-- 📒 Curso graduação em Sistemas de informação- UFOP
+- 🧑‍💻 Currently working with software development(Front-end) in @Dash
+- 📒 Pursuing a degree in Information Systems- UFOP
 
 
 <div style="display: inline_block"><br>
