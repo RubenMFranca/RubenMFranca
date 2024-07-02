@@ -2,8 +2,8 @@
 
 # Olá! Eu sou o Ruben Micael.
 
-- 🧑‍💻 Currently working with software development(Front-end) in @Dash
-- 📒 Pursuing a degree in Information Systems- UFOP
+- 🧑‍💻 Currently working with software development(Front-end Flutter) in Grupo Pacto
+- 📒 Pursuing a degree in Information Systems- Estacio de Sá
 
 
 <div style="display: inline_block"><br>
